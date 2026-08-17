@@ -1,33 +1,34 @@
-# Hey! I'm Rowen Latif
+# Hello! 🪩 I'm Rowen Latif
 
-Product Designer, CS + Design student at Northeastern University. I design products from
-concept to code. I love making things!
+Product Designer, CS + Design student at Northeastern University. I design products from concept to code. I love making things!
+<br>
 
-## Experience
+## toolkit
 
+**Design**<br>
+Figma, design systems, prototyping, type and layout, UX research, accessibility
+
+**Languages**<br>
+TypeScript, JavaScript, Python, HTML/CSS
+
+**Build**<br>
+React, React Native, Expo, Supabase, Git
+
+## experience
 **Perplexity**, UX Researcher
+<br>
 **BlackRock**, Visual Designer on Aladdin Design System
+<br>
 **IBM**, Product Designer on Maximo AI
+<br>
 
-## Projects
-
-**[fashion-archive](https://github.com/rowenlatif/fashion-archive)**
-A personal wardrobe archive built on Expo, TypeScript, and Supabase. Editorial
-minimalism applied to software that's usually pure utility — built around
-outfit repeating as a feature. Auth, image handling, and a Figma-to-code 
-pipeline, designed and built solo.
-
-## Around campus
-
+## around campus
 **Generate: Product Club**, Product Designer
+<br>
 **Kappa Theta Pi**, Design Director
+<br>
 **Figma**, Campus Ambassador
+<br>
 
-## Toolkit
-
-**Design** — Figma, design systems, prototyping, type and layout, UX research, accessibility
-**Build** — TypeScript, React, React Native, Expo, Supabase, Python
-
-## Elsewhere
-
+## elsewhere
 [Portfolio](https://rowen-latif.framer.website/) · [LinkedIn](https://www.linkedin.com/in/rowen-latif/) · latif.r@northeastern.edu
