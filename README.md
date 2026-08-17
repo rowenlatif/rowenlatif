@@ -17,7 +17,7 @@ TypeScript, JavaScript, Python, HTML/CSS
 React, React Native, Expo, Supabase, Git
 <br>
 
-## 💼 Experience
+### 💼 Experience
 **Perplexity**, UX Researcher
 <br>
 **BlackRock**, Visual Designer on Aladdin Design System
@@ -25,7 +25,7 @@ React, React Native, Expo, Supabase, Git
 **IBM**, Product Designer on Maximo AI
 <br>
 
-## 🕊️ Around campus
+### 🕊️ Around campus
 **Generate: Product Club**, Product Designer
 <br>
 **Kappa Theta Pi**, Design Director
@@ -33,5 +33,5 @@ React, React Native, Expo, Supabase, Git
 **Figma**, Campus Ambassador
 <br>
 
-## 🔗 Elsewhere
+### 🔗 Elsewhere
 [Portfolio](https://rowen-latif.framer.website/)   ·   [LinkedIn](https://www.linkedin.com/in/rowen-latif/)   ·   latif.r@northeastern.edu
