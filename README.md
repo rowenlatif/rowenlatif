@@ -7,13 +7,13 @@ Product Designer, Computer Science and Design @ Northeastern University. I desig
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 🧵 Toolkit
-**Design**
+**Design:**
 Figma, design systems, prototyping, type and layout, UX research, accessibility
 <br>
-**Languages**
+**Languages:**
 TypeScript, JavaScript, Python, HTML/CSS
 <br>
-**Build**
+**Build:**
 React, React Native, Expo, Supabase, Git
 <br>
 
