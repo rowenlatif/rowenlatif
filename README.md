@@ -1,4 +1,4 @@
-<h1>Hello! I'm Rowen Latif 🍵</h1>
+<p style="font-size: 2em; font-weight: 600;">Hello! I'm Rowen Latif 🍵</p>
 Product Designer, Computer Science and Design @ Northeastern University. I design products from concept to code. I love making things!
 <br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
