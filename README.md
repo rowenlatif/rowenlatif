@@ -6,7 +6,7 @@ Product Designer, Computer Science and Design @ Northeastern University. I desig
 <br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🧵 Toolkit
+### 🧵 Toolkit
 **Design**
 Figma, design systems, prototyping, type and layout, UX research, accessibility
 <br>
