@@ -1,5 +1,5 @@
 # Hello! I'm Rowen Latif 🍵
-Product Designer, Computer Science and Design @ Northeastern University. I design products from concept to code. I love making things!
+Product Designer, Computer Science and Design @ Northeastern University. I design products from concept to code, with an interest in how AI is changing the way people interact with software. I love making things!
 
 ### 🧵 Toolkit
 **Design:**
@@ -29,4 +29,4 @@ React, React Native, Expo, Supabase, Git
 <br>
 
 ### 🔗 Elsewhere
-[Portfolio](https://rowen-latif.framer.website/)   ·   [LinkedIn](https://www.linkedin.com/in/rowen-latif/)   ·   latif.r@northeastern.edu
+[Portfolio](https://rowen-latif.framer.website/)   ·   [LinkedIn](https://www.linkedin.com/in/rowen-latif/)   ·   latif.f@northeastern.edu
