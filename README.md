@@ -19,12 +19,6 @@ React, React Native, Expo, Supabase, Git
 <br>
 **Perplexity**, UX Researcher
 <br>
-
-### 🕊️ Around campus
-**Generate: Product Club**, Product Designer
-<br>
-**Kappa Theta Pi**, Design Director
-<br>
 **Figma**, Campus Ambassador
 <br>
 
