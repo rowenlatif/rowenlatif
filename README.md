@@ -13,11 +13,11 @@ React, React Native, Expo, Supabase, Git
 <br>
 
 ### 💼 Experience
-**Perplexity**, UX Researcher
+**IBM**, Product Designer on Maximo AI
 <br>
 **BlackRock**, Visual Designer on Aladdin Design System
 <br>
-**IBM**, Product Designer on Maximo AI
+**Perplexity**, UX Researcher
 <br>
 
 ### 🕊️ Around campus
