@@ -1,4 +1,4 @@
-$\Huge\mathbf{\textsf{Hello! I'm Rowen Latif}}$ 🍵
+$\style{font-size:3.5em}{\textsf{Hello! I am Rowen Latif}}$ 🍵
 <br>
 <br>
 Product Designer, Computer Science and Design @ Northeastern University. I design products from concept to code. I love making things!
