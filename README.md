@@ -1,10 +1,9 @@
 # Hello! I'm Rowen Latif 🍵
 Product Designer, CS + Design student at Northeastern University. I design products from concept to code. I love making things!
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🧵 Toolkit
-
 **Design**
 Figma, design systems, prototyping, type and layout, UX research, accessibility
 <br>
@@ -32,4 +31,4 @@ React, React Native, Expo, Supabase, Git
 <br>
 
 ## 🔗 Elsewhere
-[Portfolio](https://rowen-latif.framer.website/) · [LinkedIn](https://www.linkedin.com/in/rowen-latif/) · latif.r@northeastern.edu
+[Portfolio](https://rowen-latif.framer.website/)   ·   [LinkedIn](https://www.linkedin.com/in/rowen-latif/)   ·   latif.r@northeastern.edu
