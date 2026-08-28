@@ -8,8 +8,6 @@ Product Designer, Computer Science and Design @ Northeastern University. I desig
 <br>
 **Perplexity**, UX Researcher
 <br>
-**Figma**, Campus Ambassador
-<br>
 
 ### 🔗 Elsewhere
 [Portfolio](https://rowen-latif.framer.website/)   ·   [LinkedIn](https://www.linkedin.com/in/rowen-latif/)   ·   latif.f@northeastern.edu
