@@ -1,8 +1,8 @@
 # Hello! I'm Rowen Latif 🍵
-Product Designer, Computer Science and Design @ Northeastern University. I design products from concept to code, with an interest in how AI is changing the way people interact with software. I love making things!
+Product Designer, Computer Science and Design @ Northeastern University. I love making things!
 
 ### 💼 Experience
-**IBM**, Product Designer on Maximo AI
+**IBM**, Product Designer on Maximo Agentic AI
 <br>
 **BlackRock**, Visual Designer on Aladdin Design System
 <br>
